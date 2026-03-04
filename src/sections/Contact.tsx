@@ -17,25 +17,25 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Dirección',
-    content: 'Av. Principal 123, Ciudad',
+    content: 'Calle 107 Ciudad Jardin',
     color: '#0097b2'
   },
   {
     icon: Phone,
     title: 'Teléfono',
-    content: '+1 234 567 890',
+    content: '+57 310 415 1521 ',
     color: '#ff87cf'
   },
   {
     icon: Mail,
     title: 'Email',
-    content: 'hola@colorbox.com',
+    content: 'graphikartcali@gmail.com',
     color: '#ff8f4b'
   },
   {
     icon: Clock,
     title: 'Horario',
-    content: 'Lun-Vie: 9am-6pm',
+    content: 'Lun-Vie: 9am-5 pm',
     color: '#7ab93d'
   }
 ];
