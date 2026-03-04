@@ -17,7 +17,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Dirección',
-    content: 'Calle 107 Ciudad Jardin',
+    content: 'Calle 107 Ciudad Jardin, Cali - Colombia',
     color: '#0097b2'
   },
   {
